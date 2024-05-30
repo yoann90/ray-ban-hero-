@@ -12,7 +12,7 @@
 <br><br>
 <img align="center" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">  JavaScript</img>
 
-<img align="center" alt="shery js" width="50px" height="50px" style="padding-right:10px;" src="https://camo.githubusercontent.com/815645ba6c754f1c77a3e2b8790f73bd1c89f9755fe6b8f021047fe093a3072e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f61617975736863686f7568616e32342f73686572796a73406d61696e2f6d656469612f62616e6e65722e706e67">  shery js</img>
+<img align="center" alt="shery js" width="50px" height="50px" style="padding-right:10px;" src="(https://github.com/yoann90/ray-ban-hero-/assets/135041871/d119bf41-dbe8-40c8-baca-8908d36f29a5)">  shery js</img>
 
 
 <h2 align="center">Aperçu du projet :</h2>
