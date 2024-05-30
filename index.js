@@ -35,7 +35,7 @@ const imageAnimate = () => {
     gooey: true,
   });
 };
-imageAnimate();
+// imageAnimate();
 
 const animatioH1 = () => {
   let elem = document.querySelectorAll(".elem");
@@ -69,7 +69,7 @@ const animatioH1 = () => {
     });
   });
 };
-animatioH1();
+// animatioH1();
 
 const menuNav = () => {
   let menu = document.querySelector(".burger-menu ");
