@@ -79,7 +79,7 @@ const menuNav = () => {
   let to = gsap.timeline();
   to.to("#full", {
     // top: 0,
-    left:-110,
+    left:-120,
     duration: 0.5,
   });
   to.from("#full a,hr", {
