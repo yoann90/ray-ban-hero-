@@ -184,6 +184,14 @@ body {
   background-size: cover;
 }
 
+
+@media screen and (max-width: 647px) {
+  #full a {
+    font-size: 1.8rem;
+    line-height: 3rem;
+  }
+}
+
 @media screen and (max-width: 1380px) {
   #workingarea img{
     height: 5rem;
