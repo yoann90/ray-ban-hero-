@@ -35,7 +35,7 @@ const imageAnimate = () => {
     gooey: true,
   });
 };
-// imageAnimate();
+imageAnimate();
 
 const animatioH1 = () => {
   let elem = document.querySelectorAll(".elem");
@@ -50,7 +50,7 @@ const animatioH1 = () => {
         gsap.to(h1[index], {
           top: "-=100%",
           ease: Expo.easeInOut,
-          duration: 1,
+          duration: 0.5,
           onComplete: function () {
             gsap.set(this._targets[0], {
               top: "100%",
@@ -69,7 +69,7 @@ const animatioH1 = () => {
     });
   });
 };
-// animatioH1();
+animatioH1();
 
 const menuNav = () => {
   let menu = document.querySelector(".burger-menu ");
